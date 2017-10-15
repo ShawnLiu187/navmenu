@@ -80,8 +80,7 @@ header{
         and take up 20% of the width of the ul */
     }
         .menu-h a,
-        .menu-h a:link,
-        .menu-h a:visited{
+        .menu-h a:link{
             /* style the anchors to fill the entire width of the li 
             make sure there is padding around your text */
             display: block;
@@ -121,8 +120,7 @@ header{
         and take up 100% of the width of the ul */
     }
         .menu-v a,
-        .menu-v a:link,
-        .menu-v a:visited{
+        .menu-v a:link{
             display:block;
             /* style the anchors to fill the entire width of the li */
             text-decoration:none;
